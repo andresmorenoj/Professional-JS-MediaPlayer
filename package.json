@@ -1,0 +1,23 @@
+{
+  "name": "Professional-JS-MediaPlayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresmorenoj/Professional-JS-MediaPlayer.git"
+  },
+  "keywords": ["JavaScript"],
+  "author": "Andres Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresmorenoj/Professional-JS-MediaPlayer/issues"
+  },
+  "homepage": "https://github.com/andresmorenoj/Professional-JS-MediaPlayer#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
